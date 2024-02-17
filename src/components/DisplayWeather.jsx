@@ -1,6 +1,7 @@
 import React from "react";
 import "./displayweather.css";
 
+// git token weatherapp: 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
 function DisplayWeather(props) {
   const { data } = props;
   const icon =
